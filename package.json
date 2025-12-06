@@ -1,0 +1,13 @@
+{
+  "name": "always-on-bot",
+  "version": "1.0.0",
+  "description": "Bot toujours en ligne pour Render",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
